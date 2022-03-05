@@ -1,0 +1,7 @@
+.todo__title {
+  color: red;
+}
+.todo__input {
+  padding: 0.7rem 1rem;
+  border-radius: 0.5rem;
+}

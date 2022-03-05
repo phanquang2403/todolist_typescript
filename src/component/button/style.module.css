@@ -1,0 +1,10 @@
+.todo__button {
+  padding: 0.7rem 1rem;
+  border-radius: 0.5rem;
+  margin-left: 1rem;
+}
+
+.success {
+  background-color: #333;
+  color: white;
+}
